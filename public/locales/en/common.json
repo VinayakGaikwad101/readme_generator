@@ -9,5 +9,9 @@
   "language": "Language",
   "english": "English",
   "telugu": "Telugu",
+  "hindi": "Hindi",
+  "marathi": "Marathi",
+  "russian": "Russian",
+  "japanese": "Japanese",
   "translation-error": "Incorrect Translation?"
 }

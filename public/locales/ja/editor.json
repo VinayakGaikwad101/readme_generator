@@ -1,0 +1,18 @@
+{
+  "editor-desktop-optimized": "このサイトはデスクトップ用に最適化されています",
+  "editor-visit-desktop": "READMEを作成するには、デスクトップでアクセスしてください！",
+  "nav-download": "ダウンロード",
+  "download-readme-generated": "READMEが生成されました！",
+  "download-reach-out": "ご利用いただきありがとうございます！お気軽にご連絡ください",
+  "download-feedback": "ご意見・ご感想をお寄せください。",
+  "download-coffee": "この製品が役立った場合は、コーヒー一杯でご支援いただけると幸いです！",
+  "editor-column-editor": "エディター",
+  "editor-select": "コンテンツを編集するには、左側のサイドバーからセクションを選択してください",
+  "preview-column-preview": "プレビュー",
+  "preview-column-raw": "生",
+  "section-column-section": "セクション",
+  "section-column-click-edit": "コンテンツを編集するには、下のセクションをクリックしてください",
+  "section-column-click-add": "READMEに追加するには、下のセクションをクリックしてください",
+  "section-column-click-reset": "リセット",
+  "custom-section": "カスタムセクション"
+}
